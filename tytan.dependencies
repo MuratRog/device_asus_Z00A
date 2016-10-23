@@ -13,7 +13,7 @@
    "repository":  "TytanGat/proprietary_vendor_asus",
    "target_path": "vendor/asus",
    "branch":      "TTN7.0"
-  }
+  },
   {
    "repository":  "TytanGat/external_stlport",
    "target_path": "external/stlport",
