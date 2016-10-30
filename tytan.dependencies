@@ -2,21 +2,21 @@
   {
     "repository":  "TytanGat/device_asus_mofd-common",
     "target_path": "device/asus/mofd-common",
-    "branch": 	   "TTN7.0"
+    "branch": 	   "TTN7.1"
   },
   {
    "repository":  "TytanGat/kernel_asus_moorefield",
    "target_path": "kernel/asus/moorefield",
-   "branch":      "TTN7.0"
+   "branch":      "TTN7.1"
   },
   {
    "repository":  "TytanGat/proprietary_vendor_asus",
    "target_path": "vendor/asus",
-   "branch":      "TTN7.0"
+   "branch":      "TTN7.1"
   },
   {
    "repository":  "TytanGat/external_stlport",
    "target_path": "external/stlport",
-   "branch":      "TTN7.0"
+   "branch":      "TTN7.1"
   }
 ]
