@@ -18,5 +18,10 @@
    "repository":  "FuryDragons/external_stlport",
    "target_path": "external/stlport",
    "branch":      "FDS-N"
+  },
+  {
+   "repository":  "FuryDragons/packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "branch":      "FDS-N"
   }
 ]
